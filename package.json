@@ -1,0 +1,11 @@
+{
+  "name": "nbaplayers",
+  "version": "1.0.0",
+  "description": "Database for NBA Players",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakinne Foote",
+  "license": "ISC"
+}
